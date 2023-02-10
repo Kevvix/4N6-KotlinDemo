@@ -1,2 +1,2 @@
 # 4N6-KotlinDemo
-TODO un jour
+Démo sur Kotlin et la synthaxe du langage
